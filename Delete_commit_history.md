@@ -1,3 +1,5 @@
+### To delete commit history
+
 ```
 1. Checkout
     git checkout --orphan latest_branch
