@@ -1,3 +1,4 @@
+```
 1. Checkout
     git checkout --orphan latest_branch
 
@@ -15,3 +16,4 @@
 
 6. Finally, force update your repository
     git push -f origin main
+```
