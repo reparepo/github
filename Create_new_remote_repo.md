@@ -1,3 +1,6 @@
+### To create new remote repository
+
+```
 1. mkdir testrepo
 
 2. cd testrepo
@@ -19,3 +22,4 @@
 10. git commit -m "Add text.txt"
 
 11. git push -u origin main
+```
