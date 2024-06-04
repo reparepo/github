@@ -8,3 +8,6 @@
 	$ git remote set-url origin git@github.com:username/repo.git
 
 4. Execute fetch command
+
+5. Clone repository:
+	$ git clone git@github.com:username/repo.git
